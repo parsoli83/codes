@@ -15,7 +15,7 @@ class MyHTTPRequestHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
  
  
 if __name__ == '__main__':
-  port = 1337
+  port = 1236
   httpd = SocketServer.TCPServer(("", port), MyHTTPRequestHandler)
   print "Started server on port %s" % port
   httpd.serve_forever()

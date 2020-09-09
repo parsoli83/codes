@@ -267,7 +267,7 @@ def anti_offence(inp):
             "کون پنیر"
     ]
     for item in swears:
-        if item==inp:
+        if item in inp:
             return random.choice(swears)
     return False
 while True:

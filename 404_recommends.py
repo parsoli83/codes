@@ -16,4 +16,4 @@ def recommends():
             "آمار (بهیود یافتگان یا ...) کرونا بگو"
         )
     )
-print(recommends())
+

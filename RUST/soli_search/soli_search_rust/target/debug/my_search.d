@@ -1,1 +1,1 @@
-/home/parsa/Pyrust/soli_search/my_search/target/debug/my_search: /home/parsa/Pyrust/soli_search/my_search/src/main.rs
+/home/parsa/codes/RUST/soli_search/soli_search_rust/target/debug/my_search: /home/parsa/codes/RUST/soli_search/soli_search_rust/src/main.rs

@@ -5,6 +5,7 @@ use std::env;
 fn main() {
     let args: Vec<String> = env::args().collect();
     let l_inp:Vec<String> = read_input();
+    
     let mut arg=String::new();
     for i in 1..args.len(){
         arg+=&args[i].to_string();
